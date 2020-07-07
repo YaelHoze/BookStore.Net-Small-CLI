@@ -1,2 +1,2 @@
 - name: SonarQube Scan 2
-  uses: jzlai/sonarqube-action@v0.0.7
+    uses: jzlai/sonarqube-action@v0.0.7
